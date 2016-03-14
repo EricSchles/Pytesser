@@ -3,8 +3,15 @@ Pytesser
 
 Python wrapper for the tesseract OCR engine. The module is based on OpenCV.
 
+Installation
+------------
 
-Informations
+You'll need tesseract and opencv to use this tool (open cv2 specifically)
+
+* [installing tesseract](https://github.com/tesseract-ocr/tesseract/wiki)
+* installing opencv2 - brew install opencv (on mac), sudo apt-get install opencv (on linux)
+
+Information
 ------------
 
 There is already multiples tesseract python modules, but none of them satisfied me. This one is different on the following point:
